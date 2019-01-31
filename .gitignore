@@ -1,0 +1,4 @@
+environment.yml
+/__pycache__/
+.idea/
+log/
