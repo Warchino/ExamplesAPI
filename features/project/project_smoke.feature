@@ -1,5 +1,6 @@
 @smoke
 Feature: Get Projects
+
   Scenario: Get All Projects
     Given I set up a "GET" request to "/projects.json" endpoint
     When I send the request

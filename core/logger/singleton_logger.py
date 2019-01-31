@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
+import datetime
 import logging
 import os
-import datetime
 from pathlib import Path
 
 
